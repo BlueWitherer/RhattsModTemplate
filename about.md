@@ -13,7 +13,7 @@ This mod template is intended to fit my very strangely specific needs.
 ---
 
 ### Features
-Here I ramble on about <cg>features</c>. Don't <cy>forget</c> very specific color coding! Sometimes I also tell people to <cl>press buttons</c> <cf>use their keybinds</c>. Wow.
+Here I ramble on about <cg>features</c>. Don't <cy>forget</c> very specific color coding! Sometimes I also tell people to <cl>press buttons</c> and <cf>use their keybinds</c>. Wow.
 
 ### Another Feature
 There's MORE?! Shut up...

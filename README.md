@@ -13,12 +13,12 @@ My mod template for convenience!
 ---
 
 ## About
-This mod template is intended to fit my strange needs.
+This mod template is intended to fit my very strangely specific needs.
 
 ---
 
 ### Features
-Here I ramble on about features. Don't forget very specific color coding! Sometimes I also tell people to use their keybinds. Wow.
+Here I ramble on about features. Don't forget very specific color coding! Sometimes I also tell people to press buttons and use their keybinds. Wow.
 
 ### Another Feature
 There's MORE?! Shut up.
