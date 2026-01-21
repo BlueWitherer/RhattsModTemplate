@@ -1,3 +1,30 @@
-# Template Mod
+# Rhatt's Mod Template
+**My mod template for convenience!**
 
-Edit about.md to change this
+*by [Cheeseworks](user:6408873)!*
+
+> ![✳️](frame:collaborationIcon_001.png) <cg>*This mod has settings you can utilize to customize your experience.*</c>
+
+---
+
+## About
+This mod template is intended to fit my very strangely specific needs.
+
+---
+
+### Features
+Here I ramble on about <cg>features</c>. Don't <cy>forget</c> very specific color coding! Sometimes I also tell people to <cl>press buttons</c> <cf>use their keybinds</c>. Wow.
+
+### Another Feature
+There's MORE?! Shut up...
+
+> ![icon](frame:geode.loader/info-warning.png?scale=0.375) <cy>*This is a warning. Be warned.*</c>
+
+---
+
+### Credits
+- **[ArcticWoof](user:7689052)**: guy i met in a dumpster <3
+
+---
+
+![🗨️](frame:gj_discordIcon_001.png?scale=0.375) **If you need help, join my [support Discord server](https://www.dsc.gg/cheeseworks) and ask! :)**
