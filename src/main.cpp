@@ -16,7 +16,7 @@ class $modify(MyMenuLayer, MenuLayer) {
                 this,
                 menu_selector(MyMenuLayer::onMyButton)
             );
-            myButton->setID("my-button"_spr);
+            myButton->setID("gay"_spr);
 
             menu->addChild(myButton);
             menu->updateLayout();
