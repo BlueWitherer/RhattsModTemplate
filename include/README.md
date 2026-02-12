@@ -5,9 +5,6 @@ My mod template for convenience!
 Let's start off by adding this mod as a dependency in your `mod.json`!
 ```jsonc
 "dependencies": {
-    "cheeseworks.template": {
-        "importance": "required",
-        "version": ">=1.0.0"
-    }
+    "cheeseworks.template": ">=1.0.0"
 }
 ```
