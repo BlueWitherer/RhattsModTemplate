@@ -23,7 +23,7 @@ There's MORE?! Shut up...
 ---
 
 ### Credits
-- **[ArcticWoof](user:7689052)**: guy i met next to a dumpster :D
+- **[ArcticWoof](user:7689052)**: guy i met next to a dumpster :P
 
 ---
 

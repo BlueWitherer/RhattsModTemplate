@@ -29,7 +29,7 @@ There's MORE?! Shut up.
 ---
 
 ### Credits
-- **[ArcticWoof](https://www.github.com/DumbCaveSpider/)**: guy i met next to a dumpster :D
+- **[ArcticWoof](https://www.github.com/DumbCaveSpider/)**: guy i met next to a dumpster :P
 
 ---
 
