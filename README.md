@@ -21,7 +21,7 @@ This mod template is intended to fit my very strangely specific needs.
 Here I ramble on about features. Don't forget very specific color coding! Sometimes I also tell people to press buttons and use their keybinds. Wow.
 
 ### Another Feature
-There's MORE?! Shut up.
+There's MORE?! Shut up...
 
 > [!WARNING]
 > *This is a warning. Be warned.*

@@ -14,8 +14,7 @@ class $modify(MyMenuLayer, MenuLayer) {
             auto myButton = CCMenuItemSpriteExtra::create(
                 CCSprite::createWithSpriteFrameName("GJ_likeBtn_001.png"),
                 this,
-                menu_selector(MyMenuLayer::onMyButton)
-            );
+                menu_selector(MyMenuLayer::onMyButton));
             myButton->setID("gay"_spr);
 
             menu->addChild(myButton);
