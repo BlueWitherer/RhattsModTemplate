@@ -15,5 +15,5 @@
 #endif
 
 namespace cheeseworks {
-    inline static constexpr auto field = "gay!";
+    inline constexpr auto Field = "gay!";
 };
