@@ -1,4 +1,4 @@
-# [<img src="../logo.png" width="25" alt="The mod's logo." />](https://www.geode-sdk.org/mods/cheeseworks.template) Template
+# [<img src="../logo.png" width="25" alt="The mod's logo." />](https://geode-sdk.org/mods/cheeseworks.template) Template
 My mod template for convenience!
 
 ## API
