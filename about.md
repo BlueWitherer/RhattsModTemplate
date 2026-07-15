@@ -18,7 +18,7 @@ Here I ramble on about <cg>features</c>. Don't <cy>forget</c> very specific colo
 ### Another Feature
 There's MORE?! Shut up...
 
-> ![icon](frame:geode.loader/info-warning.png?scale=0.375) <cy>*This is a warning. Be warned.*</c>
+> ![⚠](frame:geode.loader/info-warning.png?scale=0.375) <cy>*This is a warning. Be warned.*</c>
 
 ---
 
