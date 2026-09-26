@@ -28,3 +28,8 @@ endif()
 add_subdirectory($ENV{GEODE_SDK} ${CMAKE_CURRENT_BINARY_DIR}/geode)
 
 setup_geode_mod(${PROJECT_NAME})
+
+option(CW_TESTING "Enable local testing mode" ON)
+if(CW_TESTING)
+    target_compile_definitions(${PROJECT_NAME} PRIVATE CW_TESTING=1)
+endif()
